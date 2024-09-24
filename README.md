@@ -1,5 +1,5 @@
 ## Hello, I am Maaz
-  I recently worked on Ethos, an operating system focused on security
+  I recently worked on Ethos, an operating system focused on security\n
   I am currently learning about behind-the-scenes systems processes
 
 <!--
