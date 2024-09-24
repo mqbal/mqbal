@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I am Maaz
+  I recently worked on Ethos, an operating system focused on security
+  I am currently learning about behind-the-scenes systems processes
 
 <!--
 **mqbal/mqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
