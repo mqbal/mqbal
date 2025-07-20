@@ -1,6 +1,14 @@
 ## Hello, I am Maaz
-  I recently worked on Ethos, an operating system focused on security\
-  I am currently learning about behind-the-scenes systems processes
+  I recently worked on Ethos, an operating system that focuses on security\
+  I am currently working on finding bugs in Cpython's latest features
+  \
+  \
+  \
+  \
+  \
+  Feast your eyes on the glorious FreeGamesFetcher, a discord bot that tells you about the latest free games on Epic Games
+  <img width="812" height="503" alt="image" src="https://github.com/user-attachments/assets/c4511cd5-f78e-4660-affb-7355efad1634" />
+
 
 <!--
 **mqbal/mqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
