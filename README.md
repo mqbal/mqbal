@@ -1,13 +1,14 @@
 ## Hello, I am Maaz
   I recently worked on Ethos, an operating system that focuses on security\
-  I am currently working on finding bugs in Cpython's latest features
+  I am currently working on finding bugs in Cpython's latest feature for multithreading
   \
   \
   \
   \
   \
-  Feast your eyes on the glorious FreeGamesFetcher, a discord bot that tells you about the latest free games on Epic Games
-  <img width="812" height="503" alt="image" src="https://github.com/user-attachments/assets/c4511cd5-f78e-4660-affb-7355efad1634" />
+  Check out the FreeGamesFetcher, a discord bot that automatically reports the latest and upcoming free games on Epic Games
+  <img width="758" height="787" alt="image" src="https://github.com/user-attachments/assets/e6e13398-df1d-4e4b-9ea0-2fac3e8f8780" />
+
 
 
 <!--
