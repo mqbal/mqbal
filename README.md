@@ -1,5 +1,5 @@
 ## Hello, I am Maaz
-  I recently worked on Ethos, an operating system that focuses on security.
+  I previously worked on Ethos, an operating system that focuses on security.
 <br>
   I am currently working on a tool that automatically find bugs in concurrent Python runtimes.
 <br>
